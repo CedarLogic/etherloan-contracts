@@ -10,5 +10,4 @@ shippable
 node_modules
 
 # Generated files
-environments/*/build
-environments/*/build/*
+build/
