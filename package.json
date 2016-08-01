@@ -1,0 +1,24 @@
+{
+  "name": "etherloan-contracts",
+  "version": "0.0.1",
+  "description": "EtherLoan Contracts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConsenSys/etherloan-contracts.git"
+  },
+  "keywords": [
+    "etherloan"
+  ],
+  "author": "Andres Junge <andres.junge@consensys.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConsenSys/etherloan-contracts/issues"
+  },
+  "homepage": "https://github.com/ConsenSys/etherloan-contracts#readme"
+}
